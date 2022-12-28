@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("first test");
+Console.WriteLine("second test");
